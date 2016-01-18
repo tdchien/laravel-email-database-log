@@ -17,5 +17,5 @@
             "tdchien\\LaravelEmailDatabaseLog\\": "src/"
         }
     },
-    "minimum-stability": "master"
+    "minimum-stability": "stable"
 }
