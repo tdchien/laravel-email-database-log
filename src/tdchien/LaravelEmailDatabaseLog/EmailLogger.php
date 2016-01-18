@@ -1,6 +1,6 @@
 <?php
 
-namespace ShvetsGroup\LaravelEmailDatabaseLog;
+namespace tdchien\LaravelEmailDatabaseLog;
 
 use DB;
 
